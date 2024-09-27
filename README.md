@@ -1,4 +1,4 @@
 # ФИО
 
-[Задание по Markdown](ABOUT.md)
-[Задание по HTML](ABOUT.html)
+[Задание по Markdown](ABOUT_md.md)
+[Задание по HTML](ABOUT_html.html)
