@@ -2,7 +2,7 @@
 # Знакомство с Markdown и GitHub
 Тимофей Новиков 11 класс
 
-
+[Число Пи](PI.md)
 
 ## Stone Island
 
