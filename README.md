@@ -18,4 +18,4 @@
 
 `print("Запрети мне носить Стон Айленд!")`
 
-![Патч](https://commons.wikimedia.org/wiki/File:Stone_Island.jpg?uselang=ru(https://avatars.mds.yandex.net/i?id=30143303c16bc827896b3e7a6d43e202_l-10229063-images-thumbs&n=13))
+![Патч](https://sun9-41.userapi.com/impf/c837429/v837429074/5a7b/kLInWtLaXB0.jpg?size=720x960&quality=96&sign=48857a9420883e11ceb57b843fc8f785&c_uniq_tag=GZz09jwT-LXeh8kVcfMvEJ77s7rOIr-cGPE7GVEqjbU&type=album)
